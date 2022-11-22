@@ -14,7 +14,7 @@ export default function Banner() {
       <div className="rs-container">
         <div className='xl:rs-max-w-7xl xl:rs-mx-auto rs-flex rs-flex-col lg:rs-flex-row rs-items-start lg:rs-items-center rs-justify-center rs-gap-6'>
           <div className=' rs-relative rs-z-10 rs-w-full md:rs-w-[400px] rs-h-[280px] md:rs-h-[360px]  bg-white rs-content-none after:rs-w-full after:rs-h-full after:rs-bg-primary after:rs-absolute after:rs-z-[-1] after:rs-left-[-10px] lg:after:rs-left-[-20px] after:rs-bottom-[-12px] lg:after:rs-bottom-[-20px]'>
-            <Image src={'/sheikh.jpg'} className='!rs-w-full !rs-h-full rs-object-cover' alt='title' layout='fill' />
+            <Image src={'/sr.jpg'} className='!rs-w-full !rs-h-full rs-object-cover' alt='title' layout='fill' />
           </div>
           <div>
             <div className=' rs-mb-2 md:rs-mb-3'>
